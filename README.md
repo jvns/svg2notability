@@ -25,6 +25,8 @@ python pdf2notability.py my-file.pdf
 
 ### limitations
 
-* doesn't 
+* only handles an extremely limited subset of SVGs. your average SVG will probably not work
+* can't create notes with multiple pages
 * gets your page sizes wrong
 * doesn't handle squares
+* probably lots more things I'm leaving out
